@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2A_task2\Design_Assignment_2A_task2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2A_task2\Design_Assignment_2A_task2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2A_task2\Design_Assignment_2A_task2\Debug\Design_Assignment_2A_task2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Design_Assignment_2A_task2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Design_Assignment_2A_task2.map</FILE>
+  <FILE>Design_Assignment_2A_task2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <poll_loop><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2A_task2\Design_Assignment_2A_task2\main.asm</FILE><LINE>19</LINE></poll_loop>
+  <LED><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2A_task2\Design_Assignment_2A_task2\main.asm</FILE><LINE>38</LINE></LED>
+  <L1><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2A_task2\Design_Assignment_2A_task2\main.asm</FILE><LINE>29</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

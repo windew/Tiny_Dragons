@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pbdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\Debug\design_assignment_2A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>design_assignment_2A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>design_assignment_2A.map</FILE>
+  <FILE>design_assignment_2A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <blink><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\main.asm</FILE><LINE>18</LINE></blink>
+  <delay_250ms><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\main.asm</FILE><LINE>27</LINE></delay_250ms>
+  <delay_375ms><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\main.asm</FILE><LINE>42</LINE></delay_375ms>
+  <L1><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\main.asm</FILE><LINE>31</LINE></L1>
+  <L2><FILE>C:\Users\Bradley&Moriah\Documents\Atmel Studio\7.0\design_assignment_2A_task1_asm\design_assignment_2A\main.asm</FILE><LINE>46</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
