@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2B_asm\Design_Assignment_2B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2B_asm\Design_Assignment_2B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pbdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2B_asm\Design_Assignment_2B\Debug\Design_Assignment_2B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Design_Assignment_2B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Design_Assignment_2B.map</FILE>
+  <FILE>Design_Assignment_2B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2B_asm\Design_Assignment_2B\main.asm</FILE><LINE>24</LINE></main>
+  <EXO_ISR><FILE>C:\Users\Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2B_asm\Design_Assignment_2B\main.asm</FILE><LINE>50</LINE></EXO_ISR>
+  <LED><FILE>C:\Users\Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2B_asm\Design_Assignment_2B\main.asm</FILE><LINE>68</LINE></LED>
+  <L1><FILE>C:\Users\Moriah\Documents\Atmel Studio\7.0\Design_Assignment_2B_asm\Design_Assignment_2B\main.asm</FILE><LINE>61</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>

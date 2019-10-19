@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\Debug\Design_Assignment_2C_T1_2A2_asm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Design_Assignment_2C_T1_2A2_asm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Design_Assignment_2C_T1_2A2_asm.map</FILE>
+  <FILE>Design_Assignment_2C_T1_2A2_asm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <begin><FILE>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\main.asm</FILE><LINE>12</LINE></begin>
+  <poll_loop><FILE>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\main.asm</FILE><LINE>18</LINE></poll_loop>
+  <LED><FILE>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\main.asm</FILE><LINE>44</LINE></LED>
+  <timer><FILE>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\main.asm</FILE><LINE>25</LINE></timer>
+  <check><FILE>c:\users\moriah\Documents\Atmel Studio\7.0\Design_Assignment_2C_T1_2A2_asm\Design_Assignment_2C_T1_2A2_asm\main.asm</FILE><LINE>32</LINE></check>
+ </LABELS>
+</ASSEMBLER_INFO>
